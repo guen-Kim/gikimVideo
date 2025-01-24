@@ -1,4 +1,4 @@
-package com.guen.gikimvideo
+package com.guen.presentation
 
 import org.junit.Test
 
