@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "gikimVideo"
 include(":app")
- 
+include(":presentation")
